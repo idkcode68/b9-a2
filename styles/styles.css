@@ -1,0 +1,489 @@
+#travel {
+    color: #131318;
+    font-family: Mulish;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.bird {
+    color: #FF5400;
+    font-family: Mulish;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.div {
+    display: flex;
+    align-items: center;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 4rem;
+}
+
+nav>ul {
+    display: flex;
+    align-items: center;
+}
+
+nav li {
+    list-style: circle;
+    margin-right: 3rem;
+}
+
+nav a {
+    text-decoration: none;
+    color: #424247;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.home {
+    color: #FF5400;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 1.2rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.sectionone {
+    background-image: url(../Images/Group\ 13\ \(1\)\ \(1\).png);
+    width: 73.125rem;
+    height: 31.25rem;
+    flex-shrink: 0;
+    border-radius: 8px;
+}
+
+.htwo {
+    color: #FFF;
+    font-family: Mulish;
+    font-size: 4rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.paragraph {
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.625rem;
+    width: 42.25rem;
+    margin: auto;
+}
+
+.whole {
+    display: inline-flex;
+    padding: 1rem;
+    align-items: flex-start;
+    gap: 24px;
+    border-radius: 0.5rem;
+    background: rgba(255, 255, 255, 0.30);
+    border-radius: 0.5rem;
+}
+
+input {
+    width: 10.87rem;
+    height: 3.25rem;
+    flex-shrink: 0;
+}
+
+.btn {
+    color: #FFF;
+    width: 10.87rem;
+    height: 3.25rem;
+    flex-shrink: 0;
+    border-radius: 1.25rem;
+    background: #FF5400;
+}
+
+.explore {
+    margin: auto;
+    text-align: center;
+    padding: 3rem;
+}
+
+.tourimg {
+    display: flex;
+}
+
+.hone {
+    color: #131318;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 2.4rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.midpara,
+.midparatwo,
+.midul {
+    width: 37rem;
+    color: rgba(19, 19, 24, 0.70);
+    font-family: Mulish;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+
+.thirdhead {
+    color: #131318;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.parasecond {
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    width: 643px;
+    margin: auto;
+}
+
+.img {
+    width: 540px;
+    height: 550px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    text-align: center;
+}
+
+.maldives {
+    background-image: url(../Images/Rectangle\ 5.png);
+    width: 100%;
+    height: 100%;
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 1.7rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.indonesia {
+    background-image: url(../Images/Rectangle\ 8.png);
+    width: 100%;
+    height: 100%;
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 1.7rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.srilanka {
+    background-image: url(../Images/Rectangle\ 6.png);
+    width: 100%;
+    height: 100%;
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 1.7rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.northamerica {
+    background-image: url(../Images/Rectangle\ 7.png);
+    width: 100%;
+    height: 100%;
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 1.7rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.kashmir {
+    background-image: url(../Images/Rectangle\ 9.png);
+    width: 100%;
+    height: 100%;
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 1.7rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.bangladesh {
+    background-image: url(../Images/Rectangle\ 10.png);
+    width: 100%;
+    height: 100%;
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 1.7rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.bandarban {
+    background-image: url(../Images/Rectangle\ 11.png);
+    width: 100%;
+    height: 100%;
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 1.7rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.rowone {
+    display: flex;
+    width: 36rem;
+    height: 19rem;
+    flex-shrink: 0;
+    fill: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url(<path-to-image>), lightgray -101px -108.075px / 135.253% 172.05% no-repeat;
+    gap: 1.3rem;
+}
+
+.rowtwo {
+    display: flex;
+    width: 18rem;
+    height: 18rem;
+    flex-shrink: 0;
+    gap: 1.3rem;
+}
+
+.rowthree {
+    display: flex;
+    width: 30rem;
+    height: 19rem;
+    gap: 1.3rem;
+}
+
+.hthree {
+    color: #131318;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.cause {
+    width: 643px;
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    margin: auto;
+}
+
+.one {
+    width: 36rem;
+    height: 18rem;
+    flex-shrink: 0;
+    border-radius: 1rem;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+    padding: 1.4rem;
+}
+
+.two {
+    width: 36rem;
+    height: 18rem;
+    flex-shrink: 0;
+    border-radius: 1rem;
+    border: 1px solid rgba(41, 206, 246, 0.20);
+    background: rgba(41, 206, 246, 0.05);
+    padding: 1.4rem;
+}
+
+.first {
+    display: flex;
+    gap: 1.3rem;
+}
+
+.second {
+    width: 36rem;
+    height: 18rem;
+    flex-shrink: 0;
+    border-radius: 1rem;
+    border: 1px solid rgba(233, 68, 68, 0.20);
+    background: rgba(233, 68, 68, 0.05);
+    margin: auto;
+    padding: 1.4rem;
+}
+
+.hotel,
+.service,
+.price {
+    color: #131318;
+    text-align: left;
+    font-family: Mulish;
+    font-size: 1.8rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.desone,
+.destwo,
+.desthree {
+    width: 30rem;
+    color: #5A5A5D;
+    font-family: Mulish;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.8rem;
+}
+
+.last {
+    display: flex;
+    gap: 1rem;
+    padding-left: 1rem;
+}
+
+.news {
+    width: 30rem;
+    height: 26rem;
+    flex-shrink: 0;
+    border-radius: 1rem;
+    border: 1px solid #FF5400;
+}
+
+.lastt {
+    color: #131318;
+    font-family: Mulish;
+    font-size: 1.6rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.lasttt {
+    color: #5A5A5D;
+    font-family: Mulish;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+
+input {
+    width: 25rem;
+    height: 3.25rem;
+    flex-shrink: 0;
+    border-radius: 0.5rem;
+    background: rgba(19, 19, 24, 0.05);
+}
+
+.btnn {
+    width: 25rem;
+    height: 4rem;
+    flex-shrink: 0;
+    border-radius: 0.5rem;
+    background: #FF5400;
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 1.3rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.save {
+    border-radius: 1rem;
+    background: #FF5400;
+    width: 324px;
+    height: 120px;
+    transform: rotate(-19.628deg);
+    position: relative;
+    text-align: center;
+    margin: auto;
+    bottom: 200px;
+    color: #FFF;
+}
+
+
+.divv {
+    text-align: center;
+    margin: auto;
+    padding: 2rem;
+}
+
+.descrip {
+    color: #5A5A5D;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.ending {
+    color: #131318;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+
+@media screen and (max-width: 576px) {
+    header {
+        padding: 20px;
+    }
+
+    nav ul {
+        flex-direction: row;
+    }
+
+    .nav,
+    .list,
+    .sectionone,
+    .explore,
+    .torimg,
+    .imgg,
+    . {
+        flex-direction: column;
+    }
+}
